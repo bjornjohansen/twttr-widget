@@ -5,6 +5,8 @@ Tags: twitter, widget, jquery
 Author URI: https://bjornjohansen.no/
 Requires at least: 3.5
 Stable tag: 0.1
+Tested up to: 3.7.1
+License: GPLv2
 
 Twitter Widget for Embedded Timelines
 
@@ -20,6 +22,12 @@ Use the official HTML widgets from Twitter (https://twitter.com/settings/widgets
 4. Go to https://twitter.com/settings/widgets and create your widget
 5. Look at the generated HTML code, find a string that looks like data-widget-id="408156745949642752". That number is your Twitter Widget ID.
 6. Edit the widget settings. Make sure you enter your Twitter username and Twitter Widget ID from the previous step
+
+== Screenshots ==
+
+1. Go to https://twitter.com/settings/widgets to create and customize your Twitter Widget. Note the Twitter Widget ID in the HTML code, as you need it later.
+2. Configure the WordPress Widget. You need to enter your Twitter username and the Twitter Widget ID.
+3. Voila! You have a Twitter Timeline Widget.
 
 == Changelog ==
 
