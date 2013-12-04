@@ -12,8 +12,8 @@ Twitter Widget for Embedded Timelines
 Twitter Widget for Embedded Timelines. Create one at https://twitter.com/settings/widgets first.
 
 == Installation ==
-1. Download and unzip plugin
-2. Upload the 'bj-lazy-load' folder to the '/wp-content/plugins/' directory,
+1. Download plugin
+2. Upload the plugin through the 'Plugins' > 'Add new' > 'Upload' page in WordPress,
 3. Activate the plugin through the 'Plugins' menu in WordPress.
 4. Go to https://twitter.com/settings/widgets and create your widget
 5. Look at the generated HTML code, find a string that looks like data-widget-id="408156745949642752". That number is your Twitter Widget ID.
