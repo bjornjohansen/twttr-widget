@@ -13,7 +13,7 @@ Twitter Widget for Embedded Timelines
 == Description ==
 Twitter Widget for Embedded Timelines. Create one at https://twitter.com/settings/widgets first.
 
-Use the official HTML widgets from Twitter (https://twitter.com/settings/widgets), but is WordPress-Widgetized and preformance optimized so there's only one script-element which is loaded in page footer, and the external JS is loaded on the window.load event.
+Use the official HTML widgets from Twitter (https://twitter.com/settings/widgets), but is WordPress-Widgetized and performance optimized so there's only one script-element which is loaded in page footer, and the external JS is loaded on the window.load event.
 
 == Installation ==
 1. Download plugin
@@ -34,3 +34,4 @@ Use the official HTML widgets from Twitter (https://twitter.com/settings/widgets
 = Version 0.1 =
 * Created 2013-12-04
 * User timeline works
+
